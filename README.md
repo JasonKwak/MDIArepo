@@ -1,2 +1,2 @@
 # MDIArepo
-MDIA 2526 Our Repo
+MDIA 2526 Our first Repo
